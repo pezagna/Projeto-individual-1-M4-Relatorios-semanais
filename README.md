@@ -1,3 +1,17 @@
+SENAC/RESILIA - Formação em Análise de Dados (FAD)
+
+PROJETO INDIVIDUAL 1 Módulo 4 – Relatórios Semanais
+
+Data de criação: 20/04/2023
+
+Data de Finalização: 25/04/2023
+
+Softwares e aplicações utilizadas:
+
+Visual Studio Code, Jupyter Notebook e Google Colab
+
+
+
 ## **CONTEXTO:**
 
 Uma determinada loja deseja produzir relatórios
